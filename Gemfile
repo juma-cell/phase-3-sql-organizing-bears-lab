@@ -8,4 +8,4 @@ gem 'sqlite3', '~>1.4'
 gem 'rspec'
 
 # Debugging
-gem 'pry'
+#gem 'pry'
